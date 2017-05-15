@@ -1,2 +1,2 @@
-# wordnet
-A lexical database for English
+# WordNet Data
+WordNet database files
